@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DialogueWindowImage
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor
+  - Obstacles
+  - Decoration
+  - Interactive
+  - Player
+  - Object
+  - 
+  - 
+  - 
+  - 
+  - Bounds
+  - Text
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 4142903703
+    locked: 0
+  - name: Walls
+    uniqueID: 121555275
+    locked: 0
+  - name: Decoration
+    uniqueID: 3828887497
+    locked: 0
+  - name: DecorationObjects
+    uniqueID: 2586615675
+    locked: 0
+  - name: Drop
+    uniqueID: 1237783465
+    locked: 0
+  - name: Interactive items
+    uniqueID: 1515836413
+    locked: 0
+  - name: Indicators
+    uniqueID: 2225573275
+    locked: 0
+  - name: Textos
+    uniqueID: 3059145409
+    locked: 0

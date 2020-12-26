@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf3dd3bd4ed085e4c98afbfc97e5a5a7, type: 3}
+  m_Name: Little health potion
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 117b17facff65dc42b1b57deb7c21551, type: 3}
+  nombre: Little health potion
+  stackable: 1
+  value: 2
+  experienceChange: 2
+  healthChange: 5
+  description: "Poci\xF3n de salud peque\xF1a que aporta 5 puntos de salud"
+  commentary: Este frasquito me ayudar a curarme un poco cuando lo necesite
